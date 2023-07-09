@@ -1,0 +1,11 @@
+IMG_ID,PRED_LAB,ACTUAL_CT,PRED_CT,CT_ERROR,%ERROR,mAP,GPS_CORDS,GEO_Tag_URL
+DJI_0023,YES,34,39,-5,-0.14705882352941177,0.8110072645874085,"['N', 10.0, 53.7475, 'E', 106.0, 41.7201]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7475'N,106°41.7201'E"",""location"")"
+DJI_0080,YES,27,23,4,0.14814814814814814,0.8110072645874085,"['N', 10.0, 53.7578, 'E', 106.0, 41.6345]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7578'N,106°41.6345'E"",""location"")"
+DJI_0088,YES,20,20,0,0.0,0.8110072645874085,"['N', 10.0, 53.7527, 'E', 106.0, 41.6133]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7527'N,106°41.6133'E"",""location"")"
+DJI_0185,YES,35,35,0,0.0,0.8110072645874085,"['N', 10.0, 53.7476, 'E', 106.0, 41.7163]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7476'N,106°41.7163'E"",""location"")"
+DJI_0205,YES,25,18,7,0.28,0.8110072645874085,"['N', 10.0, 53.7521, 'E', 106.0, 41.618]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7521'N,106°41.618'E"",""location"")"
+DJI_0255,YES,45,37,8,0.17777777777777778,0.8110072645874085,"['N', 10.0, 53.7584, 'E', 106.0, 41.6241]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7584'N,106°41.6241'E"",""location"")"
+DJI_0268,YES,57,43,14,0.24561403508771928,0.8110072645874085,"['N', 10.0, 53.7557, 'E', 106.0, 41.6831]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7557'N,106°41.6831'E"",""location"")"
+DJI_0416,YES,21,22,-1,-0.047619047619047616,0.8110072645874085,"['N', 10.0, 53.7586, 'E', 106.0, 41.6137]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7586'N,106°41.6137'E"",""location"")"
+DJI_0487,YES,18,18,0,0.0,0.8110072645874085,"['N', 10.0, 53.752, 'E', 106.0, 41.6221]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.752'N,106°41.6221'E"",""location"")"
+DJI_0502,YES,26,21,5,0.19230769230769232,0.8110072645874085,"['N', 10.0, 53.7586, 'E', 106.0, 41.6197]","=HYPERLINK(""https://www.google.com/maps/search/?api=1&query=10°53.7586'N,106°41.6197'E"",""location"")"
